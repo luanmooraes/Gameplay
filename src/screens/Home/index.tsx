@@ -3,7 +3,7 @@ import { View, FlatList } from 'react-native';
 import { styles } from './styles';
 import { Profile } from '../../components/Profile';
 import { ButtonAdd } from '../../components/ButtonAdd';
-import { CategorySelect } from '../CategorySelect';
+import { CategorySelect } from '../../components/CategorySelect';
 
 import { ListHeader } from '../../components/ListHeader';
 import { Appointment } from '../../components/Appointment';
